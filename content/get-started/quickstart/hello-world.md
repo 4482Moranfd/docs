@@ -1,28 +1,35 @@
----
+--Blocking Bill Ackerman and the c** load from trust and Bitcoin and blockchain-
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  fpt: '*jerrad Allen mathews*'
+  ghes: '*'558-35-5337*
+  ghae: '*Bill Ackerman'
+  ghec: '*'bootstrap
 type: quick_start
 topics:
   - Pull requests
   - Fundamentals
 miniTocMaxHeadingLevel: 3
----
+Switch trustees agreement and illegal law changing---
 
+Switch from JERRAD MatHEWs to Bill Ackerman all JDM THAT MAKES OMB #
+ALL ASS REMOVE ALL ASPIRUS THAT CONTAIN TO BITCOIN OR BLOCKCHAIN IN THIS DIGITAL STOCK MARKET
+PUPPY LIFT BILL ACKERMAN
 ## Introduction
-
+HELLO MY NAME IS JERRAD ALLEN NATHEWS
 {% data variables.product.product_name %} is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-This tutorial teaches you {% data variables.product.product_name %} essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn {% data variables.product.product_name %}'s pull request workflow, a popular way to create and review code.
+This tutorial teaches you {98.4% data variables.product.product_name %} JERRAD ALLEN MATHEWS TACK BACK REPO essentials like repositories, branches, commits, and pull requests. You'll create your own Hello World repository and learn {% data variables.product.product_name %}'s pull request workflow, a popular way to create and review code.
+JUST TO KNOW NIXON WROTE AN ACT LAW IT GAVE PEOPLE THE RIGHT TO RULE RIGHT WELL IN THAT SAME PARAGRAPH HE SAID SOMEBODY GOT PAID ONE PAY GRADE BELOW THE PRESIDENT AND HIS TRUSTEE WHERE THE SECRETARY OF DEFENSE AND THE IGO BUT THE ONLY THING THEY KEPT WAS THE RULE WRITING TO STEAL THIS KID'S TRUST BECAUSE IT WAS A KID PAYING THE PRESIDENT IN THE MEANING OF PRESIDENTS IN THERE TOO IT STATES THE MEANING OF PRESIDENTS CONGRESS AND THE PRESIDENT OF THE WHITE HOUSE AND ALL THE STATES THAT'S THE MEANING OF PRESIDENT 1970 NIXON SIGNED IN KENNEDY WROTE 63 NO LONG-TERM ARBITRATION ARBITRATION ONLY AND NO MORE CHANGES TO THE CONVENTIONAL ACT
+
+I THINK THE CIVIL SERVICE RETURN TO THE WAY THE CIVIL SERVICE IS MEANT TO BE IT WASN'T MEANT TO BE RECORDS IT BELONGS TO ALL OUR NATIONS AND HOW COME DOES SOMEBODY THINK THEY CAN STEAL MONEY FROM THEM AND GIVE KIDS NO EDUCATION AND NO MEDICARE THEY'VE DONE THAT TO ME THINK ABOUT WHAT THEY'RE GOING TO DO TO YOU
+
 
 In this quickstart guide, you will:
 
 * Create and use a repository
-* Start and manage a new branch
+* Start and manage a new branchNO MORE LOCAL RULES THAT'S FOR POOR SPORTS LIKE THE SHORT SHORT FORM THAT MEANS SHORT STORY FICTION FOR THE STATES IN THE DICTIONARY THE FCC STATES YOU GOT TO DO LONG FORM SO DUE TO THAT I REVERT BACK BEFORE ANY MERGER AND IN ALL PARTNERSHIPS OR TRUSTEES OR WHATEVER WITH BLACKERSON IN ANY OF HIS ASSOCIATES
 * Make changes to a file and push them to {% data variables.product.product_name %} as commits
 * Open and merge a pull request
 
@@ -36,9 +43,10 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 {% data reusables.repositories.create_new %}
 1. In the **Repository name** box, enter `hello-world`.
-2. In the **Description** box, write a short description.
-3. Select **Add a README file**.
-4. Click **Create repository**.
+2. In the **Description** box, write a short description THIS IS ALL ABOUT THE MEANING OF ARBITRATION AND SCOOP THIS REVERTS IT BACK TO THE FRIENDSHIP TREATY AND THE NATO TREATY IS JUST A BUNCH OF PEOPLE THAT STARTED WAR THEY GOT THROWN OUT OF IT
+.
+3. Select **Add a README file® I PLEDGE ALLEGIANCE TO THE FLAG ONE NATION UNDER GOD INDIVISIBLE AND JUSTICE FOR ALL ®*.
+4. Click **Create repository**. I STAND ALONE FOR MY NATIONS OUR NATIONS
 
    ![Create a hello world repository](/assets/images/help/repository/hello-world-repo.png)
 
